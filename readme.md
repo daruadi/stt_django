@@ -9,3 +9,4 @@ How to run:
 - run default django migration: ```python manage.py migrate```
 - run server django: ```python manage.py runserver```
 
+Full article can be read here https://darusinau.com/2021/02/22/menggabungkan-python-library-speechrecognition-dengan-django/
